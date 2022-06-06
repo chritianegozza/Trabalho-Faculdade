@@ -33,6 +33,6 @@ em prática para caracter de estudos.
 
 ****************************************************************************************************************************
 
-https://peritecdesentupidora.netlify.app/#
 
-Esse aqui foi um teste com reset no css ficou assim 
+
+Esse aqui foi um teste com reset no css ficou [assim ](https://peritecdesentupidora.netlify.app/#)
