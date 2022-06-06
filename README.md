@@ -32,3 +32,7 @@ em prática para caracter de estudos.
 ✅ CSS
 
 ****************************************************************************************************************************
+
+https://peritecdesentupidora.netlify.app/#
+
+Esse aqui foi um teste com reset no css ficou assim 
