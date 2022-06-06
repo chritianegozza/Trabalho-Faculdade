@@ -20,6 +20,9 @@
 **********************************************************************************************************************
 👩🏻‍💻 Projeto
 
+Esse projeto é uma implementação do que estamos vendo de conteúdo na matéria de design na faculdade e colocamos
+em prática para caracter de estudos.
+
 *****************************************************************************************************************
 🧩 Linguagem 
 
